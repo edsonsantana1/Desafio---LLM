@@ -8,6 +8,10 @@ Projeto simples de assistente virtual para suporte técnico, com backend em Node
 - Frontend com interface simples para enviar perguntas e exibir respostas.
 - Suporte a CORS para comunicação entre frontend e backend.
 
+## Criar conta API
+
+- https://openrouter.ai/
+  
 ## Como usar
 
 1. Clone este repositório:
